@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
+project(Exercise07)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(TREAP_SOURCES treap.cpp treap.h)
+add_executable(clientcode clientcode.cpp ${TREAP_SOURCES})
+add_executable(unit_test unit_test.cpp ${TREAP_SOURCES})

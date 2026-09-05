@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/clientcode.dir/clientcode.cpp.o CMakeFiles/clientcode.dir/treap.cpp.o  -o clientcode 

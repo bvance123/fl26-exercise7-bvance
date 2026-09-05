@@ -1,0 +1,4 @@
+/mnt/CMakeFiles/rebuild_cache.dir
+/mnt/CMakeFiles/edit_cache.dir
+/mnt/CMakeFiles/unit_test.dir
+/mnt/CMakeFiles/clientcode.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/clientcode.cpp
+treap.h
+/mnt/treap.h
+
+/mnt/treap.cpp
+treap.h
+/mnt/treap.h
+
+/mnt/treap.h
+bits/stdc++.h
+-
+
